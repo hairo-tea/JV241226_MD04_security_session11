@@ -3,3 +3,13 @@
 2025-09-15 11:46:11 - Started Session11Application in 3.529 seconds (process running for 4.263)
 2025-09-15 11:47:04 - Search Product :iphone
 2025-09-15 11:47:04 - Find all and search products successful : 3 product !
+2025-09-15 11:53:57 - Add product successful
+2025-09-15 11:54:25 - Delete product successful
+2025-09-15 11:55:18 - Starting Session11Application using Java 17.0.15 with PID 7724 (C:\Users\Owner\MD04_Spring_Boot\session11\build\classes\java\main started by Owner in C:\Users\Owner\MD04_Spring_Boot\session11)
+2025-09-15 11:55:18 - No active profile set, falling back to 1 default profile: "default"
+2025-09-15 11:55:18 - Started Session11Application in 0.627 seconds (process running for 551.51)
+2025-09-15 11:55:20 - Starting Session11Application using Java 17.0.15 with PID 7724 (C:\Users\Owner\MD04_Spring_Boot\session11\build\classes\java\main started by Owner in C:\Users\Owner\MD04_Spring_Boot\session11)
+2025-09-15 11:55:20 - No active profile set, falling back to 1 default profile: "default"
+2025-09-15 11:55:20 - Started Session11Application in 0.426 seconds (process running for 553.436)
+2025-09-15 11:55:27 - Product before update: Product(id=1, productName=iphone 17, price=3.8E7, stock=10001, image=http://res.cloudinary.com/dy0rttwe1/image/upload/v1757855716/a1vuolih9kyyryyeti9a.jpg)
+2025-09-15 11:55:27 - Product after update: Product(id=1, productName=iphone 17 pro max, price=2500.0, stock=10, image=http://res.cloudinary.com/dy0rttwe1/image/upload/v1757904926/m2cxzrbj2kfzucjgjpdg.jpg)

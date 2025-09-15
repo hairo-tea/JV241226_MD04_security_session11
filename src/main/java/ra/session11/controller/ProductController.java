@@ -12,7 +12,6 @@ import ra.session11.model.dto.response.DataResponse;
 import ra.session11.model.entity.Product;
 import ra.session11.service.ProductService;
 
-import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
